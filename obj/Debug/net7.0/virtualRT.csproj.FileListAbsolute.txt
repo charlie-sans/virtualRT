@@ -1,0 +1,17 @@
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.AssemblyInfoInputs.cache
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.AssemblyInfo.cs
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.csproj.AssemblyReference.cache
+C:\Users\GAMER\Documents\GitHub\virtualRT\bin\Debug\net7.0\virtualRT.exe
+C:\Users\GAMER\Documents\GitHub\virtualRT\bin\Debug\net7.0\virtualRT.deps.json
+C:\Users\GAMER\Documents\GitHub\virtualRT\bin\Debug\net7.0\virtualRT.runtimeconfig.json
+C:\Users\GAMER\Documents\GitHub\virtualRT\bin\Debug\net7.0\virtualRT.dll
+C:\Users\GAMER\Documents\GitHub\virtualRT\bin\Debug\net7.0\virtualRT.pdb
+C:\Users\GAMER\Documents\GitHub\virtualRT\bin\Debug\net7.0\Json.dll
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.csproj.CopyComplete
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.dll
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\refint\virtualRT.dll
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.pdb
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\virtualRT.genruntimeconfig.cache
+C:\Users\GAMER\Documents\GitHub\virtualRT\obj\Debug\net7.0\ref\virtualRT.dll
